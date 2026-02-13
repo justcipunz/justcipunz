@@ -1,9 +1,11 @@
-# Ayoooo!!!
-## I'm Askhat, software engineer, full-stack developer.
+# Ayo! I'm Askhat, full-stack developer
 
-Tech
-- Backend: Go, Python (FastAPI);
-- Tools: Docker, PostgreSQL;
-- Mobile: Flutter;
+**Tech**
+- Backend: Go, Python (FastAPI)
+- Tools: Docker, PostgreSQL
+- Mobile: Flutter
 
-How to reach me: @justcipunz (any social media)
+**Education**
+- Higher School of Economics, Faculty of Computer Science, Software Engineering '27
+
+**How to reach me:** @justcipunz (any social media)
