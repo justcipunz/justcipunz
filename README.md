@@ -1,9 +1,9 @@
-# Ayo! I'm Askhat, full-stack developer
+# Ayo! I'm Askhat, backend developer
 
 **Tech**
 - Backend: Go, Python (FastAPI)
-- Tools: Docker, PostgreSQL
-- Mobile: Flutter
+- Tools: Docker, PostgreSQL, Git
+- Extra: Flutter
 
 **Education**
 - Higher School of Economics, Faculty of Computer Science, Software Engineering '27
